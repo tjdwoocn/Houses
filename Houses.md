@@ -1,6 +1,6 @@
 |집위치(역)|집사진|가격(관리비+중기청이자)|역과의거리(도보)|직장까지의 거리(대중교통)|거리(자전거)|평수|방개수|층수|화장실컨디션|채광|옵션|대출가능여부|기타사항|
 |---|------|---|---|---|---|---|---|---|---|---|---|---|---|
-|합정|[사진](https://github.com/tjdwoocn/Houses/blob/master/images/1/1.md)|8000/28|11분|36분|37분|11평|3룸+거실|3층(엘베x)|Normal|X|X|O|오래된건물이라 외관 및 계단 허름|
+|합정|[사진](https://github.com/tjdwoocn/Houses/blob/master/images/1/1.md)|8000/38|11분|36분|37분|11평|3룸+거실|3층(엘베x)|Normal|X|X|O|오래된건물이라 외관 및 계단 허름|
 |합정|[사진](https://github.com/tjdwoocn/Houses/blob/master/images/2/2.md)|2000/60|4분|29분|25분|8평|1.5룸(+배란다)|3층(엘베x)|Normal|O|O|X|야외 테라스(?)같은 공간 있지만 실효성은 X|
 |홍대|[사진](https://github.com/tjdwoocn/Houses/blob/master/images/3/3.md)|1억/43|6분|29분|22분|11평|2룸+거실|3층(엘베x)|NotGood|O|X|O|10월초 입주, 도배+씽크대(상하부)교체, 동네조용|
 |당산|[사진](https://github.com/tjdwoocn/Houses/blob/master/images/4/4.md)|1.2억/45|13분|35분|38분|8평|1.5룸|3층|작음|X|O|O|역이랑 도보로 좀 멈, 조용, 거의신축, 구조 괜찮, 주차시설 좋음, 화장실 작은게 좀 흠|
